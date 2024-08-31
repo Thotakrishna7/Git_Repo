@@ -1,0 +1,1 @@
+print("Example for working directory,Staging areas,local repo,remote repo")
